@@ -2,7 +2,7 @@
 
 [`Daechul Ahn`](https://dcahn12.github.io/) | [`San Kim`](https://mounKim.github.io/) | [`Jonghyun Choi`](https://ppolon.github.io/)
 
- [[`Paper`](https://arxiv.org/)] | [[`huggingface`](https://huggingface.co/papers/)]
+ [[`Paper`](https://arxiv.org/abs/2508.06042)] | [[`huggingface`](https://huggingface.co/collections/SNUMPR/hima-68995479873aa6ebca249262)]
 
 ![](image.png)
 
