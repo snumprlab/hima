@@ -13,7 +13,7 @@ from bots.textstarcraft import TextStarCraft
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='StarCraft II agent.')
+    parser = argparse.ArgumentParser(description='StarCraft II agent')
     parser.add_argument('--port', default=8080)
     parser.add_argument('--num_server', default=3)
     parser.add_argument('--save_path', default='tmp')
